@@ -17,8 +17,7 @@
 - 📧 Reach me at **suryavamsi1729@gmail.com**
 
 ## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/surya-vamsi-570780240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-vamsi-570780240)
 
 ## 💻 Tech Stack:
 
