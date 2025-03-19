@@ -41,6 +41,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=gsap&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 # 📊 GitHub Stats:
 
@@ -53,6 +54,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryavamsi1729&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suryavamsi1729&theme=blue_green&utcOffset=8)
 <br/>
+
+## 📌 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suryavamsi1729&repo=Photogram-with-firebase&theme=blue-green)](https://github.com/suryavamsi1729/Photogram-with-firebase)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suryavamsi1729&repo=TZ_Expo_FrontEnd&theme=blue-green)](https://github.com/suryavamsi1729/TZ_Expo_FrontEnd)
 
 ## 🏆 GitHub Trophies
 
