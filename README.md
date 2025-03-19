@@ -12,7 +12,7 @@
 - 🌱 Currently Exploring <b> UI/UX </b>
 - 👩‍💻 I’m looking to collaborate on React.js projects
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/suryavamsi1729)
-- 📧 Reach me at **suryavamsi1729@gmail.com**
+- 📧 Reach me at **suryavamsi2005doddi@gmail.com**
 
 ## 🌐 Socials:
 
