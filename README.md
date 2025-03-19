@@ -55,11 +55,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suryavamsi1729&theme=blue_green&utcOffset=8)
 <br/>
 
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suryavamsi1729&repo=Photogram-with-firebase&theme=blue-green)](https://github.com/suryavamsi1729/Photogram-with-firebase)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suryavamsi1729&repo=TZ_Expo_FrontEnd&theme=blue-green)](https://github.com/suryavamsi1729/TZ_Expo_FrontEnd)
 
 ## 🏆 GitHub Trophies
 
