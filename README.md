@@ -10,9 +10,11 @@
 - 🔬 I'm a <b> Frontend Developer </b>
 - 🌱 Tech Stack: <b>React.js</b>
 - 🌱 Currently Exploring <b> UI/UX </b>
+- 🎓 Pursuing B.Tech 3rd year at IIIT Nuzvid
+- 📚 Currently Learning <b> Three.js and GSAP </b>
 - 👩‍💻 I’m looking to collaborate on React.js projects
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/suryavamsi1729)
-- 📧 Reach me at **suryavamsi2005doddi@gmail.com**
+- 📧 Reach me at **suryavamsi1729@gmail.com**
 
 ## 🌐 Socials:
 
@@ -37,6 +39,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=gsap&logoColor=white)
 
 # 📊 GitHub Stats:
 
@@ -62,8 +66,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔽 Top Contributed Repo
 
+![](https://github-contributor-stats.vercel.app/api?username=suryavamsi1729&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h1 align="center"> Fork 🍔 to create yours :star2: to support. Happy Coding 😉 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
